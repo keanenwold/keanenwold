@@ -24,4 +24,4 @@ About me:
 - We love to travel ✈️🧳⛰️🏝️🏕️
 - Minnesota sports fan 🏈🏀🏒⚾️🏟️
 
-![Picture of loon preparing to eat a fish](assets/images/Loon.jpg)
+![Picture of loon preparing to eat a fish](https://github.com/keanenwold/keanenwold/blob/main/Loon.jpg)
