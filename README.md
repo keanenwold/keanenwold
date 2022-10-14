@@ -17,9 +17,11 @@ Here are some ideas to get you started:
 
 About me:
 - Husband of my high school sweetheart 👩‍❤️‍👨, father of two humans 👧👦 and two Goldendoodles 🐶🐶
+- Geek at heart, I love technology and took apart a lot of things as a kid which did not all go back together 😄
 - Time with family and friends is a priority 🧓👵👨👩👦👧
 - Lake time is the best 🐟🦆🚤🔥
 - Photography novice 📸
 - We love to travel ✈️🧳⛰️🏝️🏕️
 - Minnesota sports fan 🏈🏀🏒⚾️🏟️
 
+![Picture of loon preparing to eat a fish](assets/images/Loon.jpg)
