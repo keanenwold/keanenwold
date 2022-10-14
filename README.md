@@ -1,4 +1,4 @@
-### Hi there 👋 I am a GitHub employee working with the Git Fundamentals team. We work with the Git community to improve the Got product.
+### Hi there 👋 I am a GitHub employee working with the Git Fundamentals team. We work with the Git community to improve the Git product.
 
 <!--
 **keanenwold/keanenwold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
