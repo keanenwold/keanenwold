@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am a GitHub employee working with the Git Fundamentals team. We work with the Git community to improve the Got product.
 
 <!--
 **keanenwold/keanenwold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+About me:
+- Husband of my high school sweetheart 👩‍❤️‍👨, father of two humans 👧👦 and two Goldendoodles 🐶
+- Time with family and friends is a priority 🧓👵👨👩👦👧
+- Lake time is the best 🐟🦆🚤🔥
+- Photography novice 📸
+- We love to travel ✈️🧳⛰️🏝️🏕️
+- Minnesota sports fan 🏈🏀🏒⚾️🏟️
+
